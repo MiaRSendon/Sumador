@@ -9,9 +9,9 @@ package com.mycompany.sumador1;
  *
  * @author Silvia
  */
-public class Sumador {
+public class Restador {
 
-    public static float sumar(float a, float b) {
-        return a + b;
+    public static float restar(float a, float b) {
+        return a - b;
     }
 }
